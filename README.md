@@ -1,6 +1,10 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Abdobella448)
 [![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/bellaabdelouahab/resume)
-### Hi there 👋
+### Hi I'm Abelouahab 👋
+
+
+- 🔭 I’m currently working on my end of study project
+
 
 <!--
 **bellaabdelouahab/bellaabdelouahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
