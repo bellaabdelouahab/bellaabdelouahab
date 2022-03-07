@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib
   - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js)
 <br>
-<div><img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
+<center><div><img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div></center>
 
