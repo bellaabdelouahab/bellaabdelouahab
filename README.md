@@ -1,5 +1,5 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Abdobella448)
-[![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/bellaabdelouahab/bellaabdelouahab/blob/main/CV-1.png)
+[![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/bellaabdelouahab/bellaabdelouahab/blob/main/CV.jpeg)
 ### Hi I'm Abelouahab 👋
 
 
