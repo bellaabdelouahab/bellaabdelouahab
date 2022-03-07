@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:inline">
+<div style="display:inline ; width:50vw">
   Technical Skills: <br>
   - Programming languages :Python, Java, JavaScript, C, C++, Dart,<br>
   - Databases :SQL (MySQL, PL/SQL) , NoSQL (MongoDB,Firebase)<br>
   - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib,<br>
   - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js)<br>
 </div>
-<div style="display:inline"><img align="center" width=25% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
+<div style="display:inline; width:25vw"><img align="center" width=25% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
 
-<br /><br/>
