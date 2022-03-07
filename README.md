@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/><br/>
+<div><img align="center" width=66% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
+
+<br /><br/>
