@@ -26,11 +26,8 @@ Technical Skills:
   - Databases :SQL (MySQL, PL/SQL) , NoSQL (MongoDB,Firebase)
   - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib,
   - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js)
-  - Others :Git
 
-
-
-<br/><br/>
-<div><img align="center" width=66% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
+<br/>
+<div><img align="center" width=25% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
 
 <br /><br/>
