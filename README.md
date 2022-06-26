@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Abdobella448)
 [![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/bellaabdelouahab/bellaabdelouahab/blob/main/CV01.jpg)
-### Hi I'm Abelouahab 👋
+### Hi I'm Abdelouahab 👋
 
 
 - 🔭 I’m currently working on my end of study project
