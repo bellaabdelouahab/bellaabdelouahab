@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   Technical Skills: 
-  - Programming languages :Python, Java, JavaScript, C, C++, Dart
-  - Databases :SQL (MySQL, PL/SQL) , NoSQL (MongoDB,Firebase)
+  - Programming languages :Python, Java, JavaScript, C, C++, Dart, React, Nodejs, Laravel
+  - Databases :SQL (MySQL, PL/SQL, Oracle, PostgreSQL) , NoSQL (MongoDB, Apache, FireBase)
   - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib
   - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js)
 <br>
