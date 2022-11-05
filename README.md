@@ -3,7 +3,7 @@
 ### Hi I'm Abdelouahab 👋
 
 
-- 🔭 I’m currently working on my end of study project
+- 🔭I’m currently learning cloud computing.
 
 
 <!--
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
   Technical Skills: 
