@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   - Programming languages :Python, Java, JavaScript, C, C++, Dart, React, Nodejs, Laravel
   - Databases :SQL (MySQL, PL/SQL, Oracle, PostgreSQL) , NoSQL (MongoDB, Apache, FireBase)
   - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib
-  - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js)
+  - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js) 
 <br>
-<div style="margin-left:10vw"><img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouaha&show_icons=true&theme=radical" /></div>
+<div style="margin-left:10vw"><img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
 
