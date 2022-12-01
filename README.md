@@ -25,15 +25,5 @@ Here are some ideas to get you started:
   - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib
   - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js) 
 <br>
-<div style="margin-left:10vw"><img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&theme=radical" /></div>
+<div style="margin-left:10vw"><img src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" height="192px" /></div>
 
-## 📊 Github stats
-
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellaabdelouahab&layout=compact&lags_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" height="192px" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
