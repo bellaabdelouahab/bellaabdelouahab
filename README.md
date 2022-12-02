@@ -1,7 +1,12 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Abdobella448)
 [![Resume Badge](https://img.shields.io/badge/CV-Resume-informational?style=flat&logo=book&logoColor=white&color=important)](https://github.com/bellaabdelouahab/bellaabdelouahab/blob/main/CV01.jpg)
-### Hi I'm Abdelouahab 👋
+### Hi I'm Abdelouahab :wave:
+<img src="https://raw.githubusercontent.com/bellaabdelouahab/bellaabdelouahab/master/banner.png" alt="Hello world">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bellaabdelouahab/count.svg" />
+</p>
 
 - 🔭I’m currently learning cloud computing.
 
