@@ -20,15 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
-</div>
-<div style="display:inline-block;">
-<p>
-Here goes the text content.
-</p>
-</div>
-<div style="display:flex;flex-direction: column;">
+
+<div style="display: flex;align-items: center;justify-content: center">
 <p style="display:inline-block">
   Technical Skills:
   
