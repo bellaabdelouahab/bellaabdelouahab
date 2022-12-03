@@ -20,13 +20,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-<div style="display: flex;align-items: center;justify-content: center">
-<p style="display:inline-block">
-  Technical Skills:
-  
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://loremflickr.com/320/240" alt="img"/>
+</div>
+<div style="display:inline-block;">
+<p>
+Here goes the text content.
 </p>
-<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" height="192px" width="40%" /></div>
+</div>
+<div style="display:flex;flex-direction: column;">
+<p>
+  Technical Skills;
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" height="192px" width="40%" /></div>
 <img src="https://seashell-app-zwwxz.ondigitalocean.app/graph?username=bellaabdelouahab&theme=material&hide_border=true&area=true" />
 <p align="center"> 
   Visitor count<br>
