@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <a href="https://github.com/cherucole">
-  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" />
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" />
 </a>
 </p>
-<p style="width:70%">
+<p style="width:60%">
  Technical Skills: <br>
   - Programming languages : Python, Java, JS, C/C++, Dart, React, Nodejs.<br>
   - Databases : SQL (MySQL, PL/SQL, Oracle) , NoSQL (MongoDB, FireBase).<br>
