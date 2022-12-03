@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+<div>
   Technical Skills: 
   - Programming languages :Python, Java, JS, C/C++, Dart, React, Nodejs
   - Databases :SQL (MySQL, PL/SQL, Oracle) , NoSQL (MongoDB, FireBase)
