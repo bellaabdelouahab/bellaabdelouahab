@@ -29,6 +29,11 @@ Here goes the text content.
 </p>
 </div>
 <div style="display:flex;flex-direction: column;">
+  <p align="center">
+<a href="https://github.com/cherucole">
+<img align="right" width="410"  src="https://github-readme-stats.vercel.app/api?username=cherucole&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Cherucole" />
+</a>
+</p>
 <p align="left" >
   Technical Skills;<br>Technical Skills;<br>Technical Skills;<br>Technical Skills;<br>
 </p>
