@@ -25,11 +25,12 @@ Here are some ideas to get you started:
   <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=bellaabdelouahab&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=2300" />
 </a>
 </p>
-  Technical Skills: 
-  - Programming languages :Python, Java, JavaScript, C, C++, Dart, React, Nodejs, Laravel
-  - Databases :SQL (MySQL, PL/SQL, Oracle, PostgreSQL) , NoSQL (MongoDB, Apache, FireBase)
-  - Data Science Tools :Sklearn,Tensorflow, Keras, Pytorch, Numpy, Pandas, Matplotlib
-  - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js) 
+
+ Technical Skills: <br>
+  - Programming languages :Python, Java, JS, C/C++, Dart, React, Nodejs.<br>
+  - Databases :SQL (MySQL, PL/SQL, Oracle) , NoSQL (MongoDB, FireBase).<br>
+  - Data Science Tools :Sklearn,Tensorflow, Keras,, Numpy, Pandas.<br>
+  - Web Devolepment: Django(py), Flask(py), React(js),vue(js),p5(js).<br>
 <br>
 
 <img src="https://seashell-app-zwwxz.ondigitalocean.app/graph?username=bellaabdelouahab&theme=material&hide_border=true&area=true" />
