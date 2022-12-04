@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 <p style="width:60%">
-
+  <br>
   - Programming languages : Python, Java, JS, C/C++, Dart, React, Nodejs.<br>
   - Databases : SQL (MySQL, PL/SQL, Oracle) , NoSQL (MongoDB, FireBase).<br>
   - Data Science Tools : Sklearn,Tensorflow, Keras,, Numpy, Pandas.<br>
