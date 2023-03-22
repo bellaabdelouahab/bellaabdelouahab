@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<img src="https://seashell-app-zwwxz.ondigitalocean.app/graph?username=bellaabdelouahab&theme=material&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bellaabdelouahab&theme=material&hide_border=true&area=true" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bellaabdelouahab/count.svg" />
