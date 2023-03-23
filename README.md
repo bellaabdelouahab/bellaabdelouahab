@@ -40,3 +40,6 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bellaabdelouahab/count.svg" />
 </p>
+<p align="center"> 
+ <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-bennkhay&theme=radical">
+</p>
