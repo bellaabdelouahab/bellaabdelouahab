@@ -41,5 +41,5 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/bellaabdelouahab/count.svg" />
 </p>
 <p align="center"> 
- <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bellaabdelouahab&theme=leafy&hide_border=true">
+ <img  width="400px" src="https://streak-stats.demolab.com?user=bellaabdelouahab&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&fire=EB2700&stroke=EB5454&ring=EB3A0E">
 </p>
