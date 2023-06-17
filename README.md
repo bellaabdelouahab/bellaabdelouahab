@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bellaabdelouahab&theme=material&hide_border=true&area=true" />
+<img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bellaabdelouahab&bg_color=241853&color=999498&line=3581b1&point=07cf29&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bellaabdelouahab/count.svg" />
