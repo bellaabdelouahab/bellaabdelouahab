@@ -20,8 +20,8 @@ I build websites and web applications, and turn business data into dashboards an
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [**FastX**](https://fast-x.abdelouahab.xyz) | Parcel delivery platform with live fleet tracking and a customer portal | Node.js, React, Socket.IO, SQLite |
 | [**CRJEA**](https://crjea.abdelouahab.xyz) | Regional platform for young agricultural entrepreneurs, with three role-based spaces | Django, SQLite |
+| [**FastX**](https://fast-x.abdelouahab.xyz) | Parcel delivery platform with live fleet tracking and a customer portal | Node.js, React, Socket.IO, SQLite |
 | [**iBee**](https://ibee.abdelouahab.xyz) | Beehive monitoring with alert rules and live updates | Node.js, React, SQLite |
 | [**Masser**](https://masser.abdelouahab.xyz) | Greenhouse monitoring with real-time readings and alerts | Node.js, React, MongoDB, RabbitMQ |
 | [**Portfolio**](https://abdelouahab.xyz) | Case studies, services and a French version | React, Express, Firestore |
